@@ -1,7 +1,6 @@
-# ector
+# ector-command [![Build Status](https://secure.travis-ci.org/parmentf/node-ector-command.png)](http://travis-ci.org/parmentf/node-ector-command)
 
 ECTOR is a learning chatterbot. This is an interactive command to ECTOR.
-[![Build Status](https://secure.travis-ci.org/parmentf/node-ector-command.png)](http://travis-ci.org/parmentf/node-ector-command)
 
 ## Getting Started
 Install the module with: `npm install ector-command`

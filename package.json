@@ -32,6 +32,7 @@
   "dependencies": {
     "debug": "0.7.x",
     "commander": "*",
+    "sugar": "1.x",
     "ector": "*"
   },
   "devDependencies": {
