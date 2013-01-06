@@ -1,4 +1,4 @@
-# ector-command [![Build Status](https://secure.travis-ci.org/parmentf/node-ector-command.png)](http://travis-ci.org/parmentf/node-ector-command)
+# ector-command
 
 ECTOR is a learning chatterbot. This is an interactive command to ECTOR.
 
@@ -20,7 +20,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-* 2013/01/?: version 0.1.0: first release
+* 2013/01/06: version 0.1.1: link response to next entry
+* 2013/01/06: version 0.1.0: first release
 
 Warning: this is a work in progress.
 
