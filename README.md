@@ -1,4 +1,4 @@
-# ector-command
+# ector-command [![NPM version](https://badge.fury.io/js/ector-command.png)](http://badge.fury.io/js/ector-command)
 
 ECTOR is a learning chatterbot. This is an interactive command to ECTOR.
 
