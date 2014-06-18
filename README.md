@@ -76,7 +76,7 @@ Show the debug state (on or off)
 
 
 ## Examples
-```bash
+```
 $ ector -p Guy
 Guy: Hello ECTOR.
 ECTOR: Hello Guy.
