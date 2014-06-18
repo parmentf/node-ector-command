@@ -2,15 +2,35 @@
 
 ECTOR is a learning chatterbot. This is an interactive command to ECTOR.
 
-## Getting Started
-Install the module with: `npm install ector-command`
+## Installation
+Install the module with: `npm install -g ector-command`
+
+## Usage
 
 ```bash
 $ ector
 ```
 
-## Documentation
-_(Coming soon)_
+## Parameters
+
+### Name of the utterer
+`-p, --person [name]`: set the name of the utterer (the user) - default value: `User`.
+
+### Name of the bot
+`-b, --botname [botname]`: set the name of the bot - default value: `ECTOR` (all uppercase).
+
+### Quiet
+`-q, --quiet`: the bot won't answer, only learn.
+
+### Log
+`-l, --log [filepath]`: log the dialogue in log file - default value: `ector.log`.
+
+### Help
+`-h, --help`: display the parameters of the command.
+
+### Version
+`-V, --version`: output the version number.
+
 
 ## Examples
 _(Coming soon)_
