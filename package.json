@@ -20,7 +20,9 @@
       "url": "https://github.com/parmentf/node-ector-command/blob/master/LICENSE-MIT"
     }
   ],
-  "bin": { "ector": "bin.js" },
+  "bin": {
+    "ector": "bin.js"
+  },
   "preferGlobal": true,
   "main": "lib/ector_command.js",
   "engines": {
@@ -31,7 +33,7 @@
   },
   "dependencies": {
     "debug": "0.7.x",
-    "commander": "*",
+    "commander": "^1.3.2",
     "sugar": "1.x",
     "ector": "*"
   },
