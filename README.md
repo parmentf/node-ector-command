@@ -57,7 +57,7 @@ Change the bot's name (like -b)
 Give the current version
 
 ### @save
-Save Ector's Concept Network and state (useful in order to teach Ector anything you don't want him to forget).
+Save Ector's Concept Network and state (useful in order to teach Ector anything you don't want him to forget). _Not yet fully functional: no loading_
 
 ### @shownodes
 Show the nodes of the Concept Network (Ector's brain's partial content).
