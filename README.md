@@ -32,6 +32,49 @@ $ ector
 `-V, --version`: output the version number.
 
 
+## Internal Commands
+
+Once run, ECTOR can be told to do various things, using commands beginning with `@`.
+
+To see the list of these commands, use `@help`.
+
+### @help
+Display the list of commands in interactive mode.
+
+### @usage
+Print the options the `ector` command.
+
+### @quit, @exit, @bye
+To quit the program and go back to the CLI, either type `@quit`, `@exit`, `@bye`, or simply `^D` (which always close an input-dependent unix command).
+
+### @person
+Change the utterer name (like -p)
+
+### @botname 
+Change the bot's name (like -b)
+
+### @version
+Give the current version
+
+### @save
+Save Ector's Concept Network and state (useful in order to teach Ector anything you don't want him to forget).
+
+### @shownodes
+Show the nodes of the Concept Network (Ector's brain's partial content).
+Mainly a debug command.
+
+### @showlinks
+Show the links of the Concept Network (another part of Ector's brain).
+Mainly a debug command.
+
+### @showstate
+Show the state of the nodes.
+Mainly a debug command.
+
+### @debug [on|off]
+Show the debug state (on or off)
+
+
 ## Examples
 _(Coming soon)_
 
@@ -40,6 +83,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+* 2014/06/18: version 0.1.2: fix a blocking bug (using a deprecated module)
 * 2013/01/06: version 0.1.1: link response to next entry
 * 2013/01/06: version 0.1.0: first release
 
