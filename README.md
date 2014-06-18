@@ -23,7 +23,7 @@ $ ector
 `-q, --quiet`: the bot won't answer, only learn.
 
 ### Log
-`-l, --log [filepath]`: log the dialogue in log file - default value: `ector.log`.
+`-l, --log [filepath]`: log the dialogue in log file - default value: `ector.log`. _Not yet working_
 
 ### Help
 `-h, --help`: display the parameters of the command.
@@ -76,7 +76,27 @@ Show the debug state (on or off)
 
 
 ## Examples
-_(Coming soon)_
+```bash
+$ ector -p Guy
+Guy: Hello ECTOR.
+ECTOR: Hello Guy.
+Guy: How do you do?
+ECTOR: How do you do?
+Guy: Well, what do you think, right now?
+ECTOR: How do you do?
+Guy: We already greet ourselves, indeed.
+ECTOR: Well, what do you think, right now?
+Guy: I think that I'm not a native English speaker.
+ECTOR: I think that I'm not a native English speaker.
+Guy: And also, you are a true parrot. But that's normal: you are like a young child, learning to speak.
+ECTOR: I think that I'm not a young child, learning to speak.
+Guy: Marvelous, now you're thinking by yourself ;)
+ECTOR: But that's normal: you do?
+Guy: And now, you make mistakes, that even I wouldn't make.
+ECTOR: How do you make mistakes, that I'm not a true parrot.
+Guy: @save
+Guy: 
+```
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [mocha](http://visionmedia.github.com/mocha/).
