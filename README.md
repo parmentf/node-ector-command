@@ -1,4 +1,4 @@
-# ector-command [![NPM version](https://badge.fury.io/js/ector-command.png)](http://badge.fury.io/js/ector-command)
+# ector-command [![NPM version](https://badge.fury.io/js/ector-command.png)](http://badge.fury.io/js/ector-command) [![Gitter chat](https://badges.gitter.im/parmentf/node-ector-command.png)](https://gitter.im/parmentf/node-ector-command)
 
 [![NPM](https://nodei.co/npm/ector-command.png?downloads=true)](https://nodei.co/npm/ector-command/)
 
