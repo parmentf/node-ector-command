@@ -32,10 +32,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "debug": "0.7.x",
     "commander": "^1.3.2",
-    "sugar": "1.x",
-    "ector": "*"
+    "concept-network": "^0.1.3",
+    "debug": "0.7.x",
+    "ector": "*",
+    "file-concept-network": "^0.1.1",
+    "sugar": "1.x"
   },
   "devDependencies": {
     "mocha": "1.7.x",
