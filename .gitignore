@@ -1,3 +1,4 @@
 *.sublime-*
 node_modules
 *_state.json
+cn.json
