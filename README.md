@@ -105,6 +105,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+* 2014/08/07: version 0.1.3: use FileConceptNetwork, add load command
 * 2014/06/18: version 0.1.2: fix a blocking bug (using a deprecated module)
 * 2013/01/06: version 0.1.1: link response to next entry
 * 2013/01/06: version 0.1.0: first release
