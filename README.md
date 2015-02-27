@@ -52,7 +52,7 @@ To quit the program and go back to the CLI, either type `@quit`, `@exit`, `@bye`
 ### @person
 Change the utterer name (like -p)
 
-### @botname 
+### @botname
 Change the bot's name (like -b)
 
 ### @version
@@ -97,7 +97,7 @@ ECTOR: But that's normal: you do?
 Guy: And now, you make mistakes, that even I wouldn't make.
 ECTOR: How do you make mistakes, that I'm not a true parrot.
 Guy: @save
-Guy: 
+Guy:
 ```
 
 ## Contributing
@@ -105,6 +105,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+* 2015/02/27: version 1.0.0: use semantic versioning, fix a major bug
 * 2014/08/07: version 0.1.3: use FileConceptNetwork, add load command
 * 2014/06/18: version 0.1.2: fix a blocking bug (using a deprecated module)
 * 2013/01/06: version 0.1.1: link response to next entry
@@ -113,5 +114,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 Warning: this is a work in progress.
 
 ## License
-Copyright (c) 2013 François Parmentier  
+Copyright (c) 2013 François Parmentier
 Licensed under the MIT license.
