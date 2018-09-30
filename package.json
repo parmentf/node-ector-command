@@ -33,8 +33,7 @@
     "sugar": "1.x"
   },
   "devDependencies": {
-    "jshint": "0.9.x",
-    "mocha": "5.2.0"
+    "jshint": "0.9.x"
   },
   "keywords": [
     "bot",
