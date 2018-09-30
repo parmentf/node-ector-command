@@ -25,16 +25,14 @@
   },
   "scripts": {},
   "dependencies": {
-    "commander": "^1.3.2",
+    "commander": "1.3.2",
     "concept-network": "1.2.1",
     "debug": "4.0.1",
-    "ector": "^1.0.0",
-    "file-concept-network": "^0.1.2",
-    "sugar": "1.x"
+    "ector": "1.0.1",
+    "file-concept-network": "0.1.2",
+    "sugar": "1.5.0"
   },
-  "devDependencies": {
-    "jshint": "0.9.x"
-  },
+  "devDependencies": {},
   "keywords": [
     "bot",
     "chatterbot",
