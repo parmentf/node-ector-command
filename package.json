@@ -1,7 +1,7 @@
 {
   "name": "ector-command",
   "description": "A command to an interactive learning chatterbot.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/parmentf/node-ector-command",
   "author": {
     "name": "François Parmentier",
@@ -14,12 +14,7 @@
   "bugs": {
     "url": "https://github.com/parmentf/node-ector-command/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/parmentf/node-ector-command/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "MIT",
   "bin": {
     "ector": "bin.js"
   },
